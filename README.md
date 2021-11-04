@@ -8,8 +8,8 @@
 
  ## icones
 
- :package: nova fucionalidade
- :up: atualização
- :beatle: correção de bug
- :checkered_flag: release
+ - :package: nova fucionalidade
+ - :up: atualização
+ - :beatle: correção de bug
+ - :checkered_flag: release
 
